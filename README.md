@@ -30,6 +30,7 @@ Project
 │   ├── Paper.pdf
 ├── LICENSE
 ├── PPT.pdf
+├── Requirements.txt
 ├── Report.pdf
 └── README.md
 ```
@@ -56,7 +57,7 @@ Create a folder named `checkpoints` and organize subfolders to store various mod
 - Python 3.7 or later
 - PyTorch
 - Transformers (Hugging Face)
-- Other dependencies listed in `requirements.txt`
+- Other dependencies listed in `Requirements.txt`
 
 ### Installation
 
@@ -70,7 +71,7 @@ Create a folder named `checkpoints` and organize subfolders to store various mod
 2. Install the required dependencies:
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r Requirements.txt
    ```
 
 ### Usage

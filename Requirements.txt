@@ -1,0 +1,11 @@
+torch>=1.7.0
+transformers>=4.0.0
+numpy
+pandas
+scikit-learn
+tqdm
+matplotlib
+seaborn
+jupyter
+notebook
+sentencepiece
